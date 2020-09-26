@@ -1,4 +1,8 @@
 ##                                        Netflix Clone Using React JS/FireBase
+
+## Live Demo
+www.netflix-kfi1p5tkm.vercel.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
