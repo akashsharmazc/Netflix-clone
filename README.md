@@ -15,6 +15,7 @@
 Want to run your own instance of this App? You are very much free to do so. The requirements to build from source are:
 
 **NodeJS/NPM**
+
 **Firebase Project**
 
 1) First clone this project repository
