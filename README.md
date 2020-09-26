@@ -1,4 +1,9 @@
-##                                        Netflix Clone Using React JS/FireBase
+#                                        Netflix Clone Using React JS/FireBase
+
+
+
+
+
 
 ## Live Demo
 www.netflix-kfi1p5tkm.vercel.app
