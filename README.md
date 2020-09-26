@@ -14,20 +14,19 @@
 ## Building from Source
 Want to run your own instance of this App? You are very much free to do so. The requirements to build from source are:
 
-NodeJS/NPM
+**NodeJS/NPM
+**Firebase Project
 
-Firebase Project
-
-1)First clone this project repository
+1) First clone this project repository
 ```bash
 git clone https://github.com/yocarl/Netflix-clone.git
 cd Netflix-clone
 ```
-Run npm install to install dependencies for the project
+2) Run npm install to install dependencies for the project
 ```bash
 npm install
 ```
-Fill config object in './src/lib/firebase it with your Firebase credentials
+3) Fill config object in './src/lib/firebase it with your Firebase credentials
 ```
 FIREBASE_APIKEY=""
 FIREBASE_APPID=""
@@ -38,4 +37,4 @@ FIREBASE_MESSAGINGSENDERID=""
 FIREBASE_PROJECTID=""
 FIREBASE_STORAGEBUCKET=""
 ```
-Run ```npm run start``` to run the development server or ```npm run build``` to build the production app.
+4) Run ```npm run start``` to run the development server or ```npm run build``` to build the production app.
